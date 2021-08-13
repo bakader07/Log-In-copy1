@@ -1,0 +1,101 @@
+.img {
+    margin: auto;
+    width: fit-content;
+}
+
+.img img {
+    width:350px;
+    height: 400px;
+}
+
+
+
+#log log:hover, button:hover {
+    cursor: pointer;
+}
+
+
+
+.login {
+    font-size: 12;
+    color: aliceblue;
+    font-weight: 100;
+    line-height: 1.6;
+    font-family: sans-serif ;
+    width: 270px;
+    height: 320px;
+    margin: auto;
+    padding: 40px;
+    background-color: #03045E;
+}
+
+a {
+    text-decoration: none;
+    color: #0096C7;
+    font-weight: 700;
+}
+
+.login h2 {
+    margin: 0;
+    padding: 0 10px;
+}
+
+.login span {
+    padding: 0 10px;
+}
+
+
+
+#log input {
+    border-width: 0;
+    display: block;
+    margin: 0;
+    padding: 0;
+    height: 40px;
+    width: 250px;
+    text-indent: 10px;
+}
+
+#log .log {
+    background-color: #0096C7;
+    color: aliceblue;
+    font-weight: 800;
+    border-bottom-left-radius: 8px;
+    border-bottom-right-radius: 8px;
+}
+
+#log .email {
+    border-top-left-radius: 8px;
+    border-top-right-radius: 8px;
+}
+
+#log {
+    padding: 10px 0 0 0;
+    margin: 10px;
+}
+
+
+
+.other a { font-weight: 100; }
+
+.other {
+    text-align: center;
+}
+
+.other #or {
+    color: gray;
+    font-size: 14px;
+}
+
+.other button {
+    display: block;
+    margin: 10px;
+    padding: 10px;
+    border-width: 0;
+    border-radius: 5px;
+    background-color: #0096C7;
+    color: aliceblue;
+    width: 250px;
+    height: 40px;
+    font-weight: 700;
+}
